@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new note.md",
+                "file": "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd02014d9b5a438b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "neural network test.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new note.md",
+                "file": "neural network test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new note.md"
+                "file": "neural network test.md"
               }
             }
           },
@@ -191,9 +204,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9efe33635c2f94c",
+  "active": "cd02014d9b5a438b",
   "lastOpenFiles": [
     "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
+    "neural network test.md",
     "new note.md",
     "فواتير علي الدولي للمسالك.md",
     "Untitled",
@@ -233,7 +247,6 @@
     "_ZettleNotes/programming Notes/Ai Notes/Softmax regression.md",
     "_ZettleNotes/programming Notes/Ai Notes/Relu Functon.md",
     "_ZettleNotes/programming Notes/Ai Notes/orthogonalization.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Normalizing.md",
     "_ZettleNotes/programming Notes/Ai Notes",
     "_ZettleNotes/programming Notes",
     "_ZettleNotes/other Notes",
