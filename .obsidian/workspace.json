@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "فواتير علي الدولي للمسالك.md",
+                "file": "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dropout",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "فواتير علي الدولي للمسالك.md",
+                "file": "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "فواتير علي الدولي للمسالك.md"
+                "file": "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md"
               }
             }
           },
@@ -179,20 +179,24 @@
   },
   "active": "3b797fec7a1fdaaa",
   "lastOpenFiles": [
-    "_ZettleNotes/other Notes/how to take notes project .md",
-    "فواتير علي الدولي للمسالك.md",
+    "_ZettleNotes/programming Notes/Ai Notes/gradient descent.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
+    "_ZettleNotes/programming Notes/Ai Notes/hyperparameters.md",
+    "_ZettleNotes/programming Notes/Ai Notes/learning curves.md",
+    "Templates/General Notes.md",
     "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
+    "فواتير علي الدولي للمسالك.md",
+    "_ZettleNotes/Test note.md",
+    "_ZettleNotes/other Notes/how to take notes project .md",
     "_ZettleNotes/Binary Cross-Entropy Loss.md",
     "_ZettleNotes/programming Notes/Ai Notes/vectorization.md",
     "_ZettleNotes/programming Notes/Ai Notes/activation function.md",
     "_ZettleNotes/programming Notes/Ai Notes/sigmoid function.md",
     "_ZettleNotes/programming Notes/Ai Notes/Regularization.md",
-    "_ZettleNotes/programming Notes/Ai Notes/hyperparameters.md",
     "_ZettleNotes/programming Notes/Ai Notes/feature selection.md",
     "_ZettleNotes/programming Notes/Ai Notes/cross validation.md",
     "_ZettleNotes/programming Notes/Ai Notes/Adam Algorithm.md",
     "_ZettleNotes/programming Notes/Ai Notes/advanced optimization.md",
-    "_ZettleNotes/programming Notes/Ai Notes/gradient descent.md",
     "Resources/Raindrop/Other/desktop.ini",
     "Resources/Raindrop/desktop.ini",
     "Resources/Books/desktop.ini",
@@ -215,10 +219,6 @@
     "_ZettleNotes/programming Notes/Ai Notes/orthogonalization.md",
     "_ZettleNotes/programming Notes/Ai Notes/Normalizing.md",
     "_ZettleNotes/programming Notes/Ai Notes/Normal Equation.md",
-    "_ZettleNotes/programming Notes/Ai Notes/multilabel label classification.md",
-    "_ZettleNotes/programming Notes/Ai Notes/multiclass classification.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Mean Squared Error (MSE).md",
-    "_ZettleNotes/programming Notes/Ai Notes/machine learning specialization.md",
     "_ZettleNotes/programming Notes/Ai Notes",
     "_ZettleNotes/programming Notes",
     "_ZettleNotes/other Notes",

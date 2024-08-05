@@ -7,7 +7,7 @@ topic:
   - machine learning
 ---
 
-![Pasted image 20240731015629](Pasted%20image%2020240731015629.png)
+![Pasted image 20240731015629](Attachment/Pasted%20image%2020240731015629.png)
 
 ---
 ### how neural network actually work  ? 
@@ -16,13 +16,13 @@ topic:
 2. hidden layers 
 3. output layers 
 #### demand prediction
-![Pasted image 20240731020023](Pasted%20image%2020240731020023.png)
+![Pasted image 20240731020023](Attachment/Pasted%20image%2020240731020023.png)
 [activation function](activation%20function.md)
 $$
 a = f(x)_{\vec{w},b} = \frac{1}{1+\exp{(w.x + b)}}
 $$
 #### face recognition 
-![Pasted image 20240731020843](Pasted%20image%2020240731020843.png)
+![Pasted image 20240731020843](Attachment/Pasted%20image%2020240731020843.png)
 
 ---
 عند حساب عدد ال layers مش بنحسب ال inputs layers . 
@@ -106,13 +106,6 @@ that make it :
 
 ----
 LINKS TO THIS PAGE 
-```dataview
-LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
-```
-
-
-
 ```dataview 
-file.name
-
+LIST FROM [[#]] OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC
 ```
