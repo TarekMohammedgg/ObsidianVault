@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9efe33635c2f94c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
+                "file": "new note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md"
+                "file": "new note.md"
               }
             }
           },
@@ -177,8 +191,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b797fec7a1fdaaa",
+  "active": "d9efe33635c2f94c",
   "lastOpenFiles": [
+    "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
+    "new note.md",
     "فواتير علي الدولي للمسالك.md",
     "Untitled",
     "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
@@ -186,7 +202,6 @@
     "_ZettleNotes/programming Notes/Ai Notes/hyperparameters.md",
     "_ZettleNotes/programming Notes/Ai Notes/learning curves.md",
     "Templates/General Notes.md",
-    "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
     "_ZettleNotes/Test note.md",
     "_ZettleNotes/other Notes/how to take notes project .md",
     "_ZettleNotes/Binary Cross-Entropy Loss.md",
