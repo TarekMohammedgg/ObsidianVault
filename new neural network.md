@@ -9,7 +9,11 @@
 3. output layers 
 #### demand prediction
 ![Pasted image 20240731020023](Attachment/Pasted%20image%2020240731020023.png)
+
+
 [activation function](activation%20function.md)
+
+
 $$
 a = f(x)_{\vec{w},b} = \frac{1}{1+\exp{(w.x + b)}}
 $$
