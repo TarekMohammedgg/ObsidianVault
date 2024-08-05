@@ -104,7 +104,7 @@ setting up your optimization problem :
 [Normalizing](Normalizing.md)
 
 ---
-[[vanishing and exploding gradients]]
+[[_ZettleNotes/programming Notes/Ai Notes/vanishing and exploding gradients]]
 
 
 ---

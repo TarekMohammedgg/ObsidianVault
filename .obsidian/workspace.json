@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vanishing and exploding gradients.md",
+                "file": "_ZettleNotes/programming Notes/Ai Notes/vanishing and exploding gradients.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vanishing and exploding gradients.md",
+                "file": "_ZettleNotes/programming Notes/Ai Notes/vanishing and exploding gradients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vanishing and exploding gradients.md"
+                "file": "_ZettleNotes/programming Notes/Ai Notes/vanishing and exploding gradients.md"
               }
             }
           },
@@ -179,7 +179,7 @@
   "active": "1bac2b730aa3ce68",
   "lastOpenFiles": [
     "_ZettleNotes/programming Notes/Ai Notes/Regularization.md",
-    "vanishing and exploding gradients.md",
+    "_ZettleNotes/programming Notes/Ai Notes/vanishing and exploding gradients.md",
     "Templates/General Notes.md",
     "_ZettleNotes/programming Notes/Ai Notes/deep learning specialization.md",
     "_Indexes/Index - ما لا يسع الملسم جهله.md",
