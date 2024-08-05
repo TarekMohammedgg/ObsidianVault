@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new regularization.md",
+                "file": "new neural network.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new regularization.md",
+                "file": "new neural network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new regularization.md"
+                "file": "new neural network.md"
               }
             }
           },
@@ -205,8 +205,10 @@
   },
   "active": "cd02014d9b5a438b",
   "lastOpenFiles": [
-    "_ZettleNotes/programming Notes/Ai Notes/Regularization.md",
+    "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
+    "new neural network.md",
     "new regularization.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Regularization.md",
     "Templates/General Notes.md",
     "_ZettleNotes/programming Notes/Ai Notes/vectorization.md",
     "_ZettleNotes/Test note.md",
@@ -218,7 +220,6 @@
     "_ZettleNotes/programming Notes/Ai Notes/Relu Functon.md",
     "_ZettleNotes/programming Notes/Ai Notes/Normalizing.md",
     "_ZettleNotes/programming Notes/Ai Notes/Normal Equation.md",
-    "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
     "_ZettleNotes/programming Notes/Ai Notes/multilabel label classification.md",
     "_ZettleNotes/programming Notes/Ai Notes/multiclass classification.md",
     "_ZettleNotes/programming Notes/Ai Notes/Mean Squared Error (MSE).md",
@@ -230,7 +231,6 @@
     "_ZettleNotes/programming Notes/Ai Notes/learning curves.md",
     "_ZettleNotes/programming Notes/Ai Notes/hyperparameters.md",
     "_ZettleNotes/programming Notes/Ai Notes/gradient descent.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
     "Test file",
     "Resources/Raindrop/Other/desktop.ini",
     "Resources/Raindrop/desktop.ini",
