@@ -23,7 +23,7 @@ Topics support supervised learning :
 
 [[linear Regression]] - (x->y) : predict the Number depend on the best line can drawn between points . 
 
-[[_ZettleNotes/programming Notes/Ai Notes/Logistic Regression (Classification )]] - predict the categories small Number of possible outputs (limited ) . 
+[[Logistic Regression (Classification )]] - predict the categories small Number of possible outputs (limited ) . 
 
 
 ----

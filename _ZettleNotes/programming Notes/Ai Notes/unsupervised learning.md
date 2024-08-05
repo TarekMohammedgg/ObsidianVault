@@ -1,5 +1,5 @@
 ---
-date: 2024-08-05
+date: 
 author: 
 topic:
   - Ai

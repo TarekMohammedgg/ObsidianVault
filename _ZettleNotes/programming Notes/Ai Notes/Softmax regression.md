@@ -6,7 +6,7 @@ topic:
   - machine learning
 ---
 
-**definition** : is generalization of [[_ZettleNotes/programming Notes/Ai Notes/Logistic Regression (Classification )]] , so able to solve [[neural network NN#multiclass classification]] problem 
+**definition** : is generalization of [[Logistic Regression (Classification )]] , so able to solve [[neural network NN#multiclass classification]] problem 
 
 ![[Pasted image 20240731025428.png]]
 ### formula : 

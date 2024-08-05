@@ -35,7 +35,7 @@ we use [[sigmoid function]] as an [[activation function]]
 
 [[vectorization]]
 
-- خلي بالك في ان ال w كانت vector في ال [[linear Regression]] and [[_ZettleNotes/Logistic Regression (Classification )]] و لكن في ال [[neural network NN]] بقت matrix . 
+- خلي بالك في ان ال w كانت vector في ال [[linear Regression]] and [[Logistic Re`gression (Classification )]] و لكن في ال [[neural network NN]] بقت matrix . 
 
 ### how to train [[neural network NN]] in tensorflow  :
 1. create a Neural Network " how to compute output give input x and parameters "
@@ -73,12 +73,12 @@ model.fit(x,y,epoches  = 100 )
 	1. relu faster than sigmoid 
 	2. faster learning because relu have one **flat region** , but sigmoid have two flat region  , the **flat region** make the gradient descent be slower  
 **choosing g(z) for outputs layer ?** 
-[[sigmoid function]] => [[_ZettleNotes/programming Notes/Ai Notes/Logistic Regression (Classification )]]
+[[sigmoid function]] => [[Logistic Regression (Classification )]]
 [[Linear function]] => [[linear Regression]]
 [[Relu Functon]] => [[linear Regression]]
 
 **why do we need activation functions ?**
-because Neural Network not be able to fit any things more complex rather than [[Linear function]]( no activation function )
+because Neural Network not be able to fit any things more complex rather than [[ no activation function |[Linear function]]
 
 ### [[multiclass classification]] 
 

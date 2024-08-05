@@ -6,7 +6,7 @@ topic:
   - Ai
   - machine learning
 ---
-*definition* :  is a statistical method used for binary classification problems, where the goal is to predict the probability that a given input belongs to one of two possible classes. Unlike[[linear Regression]], which predicts a continuous output, logistic regression predicts a probability that is then mapped to a discrete class label.
+*definition* : [[Logistic Regression (Classification )]] is a statistical method used for binary classification problems, where the goal is to predict the probability that a given input belongs to one of two possible classes. Unlike[[linear Regression]], which predicts a continuous output, logistic regression predicts a probability that is then mapped to a discrete class label.
 
 use logistic function ([[sigmoid function]] )
 

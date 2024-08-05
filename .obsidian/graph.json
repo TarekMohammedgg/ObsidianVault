@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "neural network",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -32,6 +32,6 @@
   "repelStrength": 11.4968814968815,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.5431013209714015,
-  "close": true
+  "scale": 1.0729300384985252,
+  "close": false
 }
