@@ -42,7 +42,7 @@ b = temp - b
 ![](Pasted%20image%2020240730234540.png#center%20|%20500%20)
 
 
-in [gradient descent](gradient%20descent.md) can reach minimum without decreasing learning rate 
+in [gradient descent](_ZettleNotes/programming%20Notes/AI_Notes/gradient%20descent.md) can reach minimum without decreasing learning rate 
 عشان كلما اقترب من ال local minimum الاشتقاق بيقل لحد ما يوصل للصفر 
 ![](Pasted%20image%2020240730235441.png#center%20|%20500%20)
 

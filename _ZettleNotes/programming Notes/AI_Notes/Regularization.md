@@ -31,7 +31,7 @@ w will be sparse
 
 ### why regularization reduces overfitting ? 
 
-- الفكرة بشكل عام اني كلما قللت قيمة ال w  كلما كانت ال [neural network NN](_ZettleNotes/programming%20Notes/Ai%20Notes/neural%20network%20NN.md) اصغر و ده الي بيخليها ابسط و بالتالي  بيقلل ال overfitting . 
+- الفكرة بشكل عام اني كلما قللت قيمة ال w  كلما كانت ال [neural network NN](_ZettleNotes/programming%20Notes/AI_Notes/neural%20network%20NN.md) اصغر و ده الي بيخليها ابسط و بالتالي  بيقلل ال overfitting . 
 - شرح مفصل اكتر 
 ![ 500 ](Pasted%20image%2020240729030348.png%20)
 
@@ -71,16 +71,16 @@ using some of distortion on the same image or item to increase the size of train
 ![ 300](Pasted%20image%2020240729040224.png%20)
 
 يعتبر نفس المبدأ بتاع ال l2 regularization الا و هو اختار او تقليل قيمة ال w علي امل ان 
-ال [neural network NN](_ZettleNotes/programming%20Notes/Ai%20Notes/neural%20network%20NN.md) تكون قيمة ال w مناسبة معاها و لكن ليها عيب واحد الا و هو : 
-[orthogonalization](orthogonalization.md) 
+ال [neural network NN](_ZettleNotes/programming%20Notes/AI_Notes/neural%20network%20NN.md) تكون قيمة ال w مناسبة معاها و لكن ليها عيب واحد الا و هو : 
+[orthogonalization](_ZettleNotes/programming%20Notes/AI_Notes/orthogonalization.md) 
 
 
 
-### what is the different between [Regularization](Regularization.md) and [feature selection](feature%20selection.md)  ? 
+### what is the different between [Regularization](_ZettleNotes/programming%20Notes/AI_Notes/Regularization.md) and [feature selection](_ZettleNotes/programming%20Notes/AI_Notes/feature%20selection.md)  ? 
 
-in [Regularization](Regularization.md) : we don't delete feature completely , but decrease the effect of  unimportant features 
+in [Regularization](_ZettleNotes/programming%20Notes/AI_Notes/Regularization.md) : we don't delete feature completely , but decrease the effect of  unimportant features 
 
-in [feature selection](feature%20selection.md) : we delete  unimportant features completely 
+in [feature selection](_ZettleNotes/programming%20Notes/AI_Notes/feature%20selection.md) : we delete  unimportant features completely 
 
 
 ----

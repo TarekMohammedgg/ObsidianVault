@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/vanishing and exploding gradients.md",
+                "file": "_ZettleNotes/programming Notes/AI_Notes/vanishing and exploding gradients.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/vanishing and exploding gradients.md",
+                "file": "_ZettleNotes/programming Notes/AI_Notes/vanishing and exploding gradients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/vanishing and exploding gradients.md"
+                "file": "_ZettleNotes/programming Notes/AI_Notes/vanishing and exploding gradients.md"
               }
             }
           },
@@ -176,34 +176,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1bac2b730aa3ce68",
+  "active": "8dcfa99c2f2987b9",
   "lastOpenFiles": [
-    "_ZettleNotes/programming Notes/Ai Notes/Regularization.md",
-    "_ZettleNotes/programming Notes/Ai Notes/vanishing and exploding gradients.md",
+    "_ZettleNotes/programming Notes/AI_Notes/Regularization.md",
+    "_ZettleNotes/programming Notes/AI_Notes/vanishing and exploding gradients.md",
     "Templates/General Notes.md",
-    "_ZettleNotes/programming Notes/Ai Notes/deep learning specialization.md",
+    "_ZettleNotes/programming Notes/AI_Notes/deep learning specialization.md",
     "_Indexes/Index - ما لا يسع الملسم جهله.md",
     "_Indexes/Index - اعادة تشغيل الذات.md",
     "_Indexes/Index - AI topics.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Softmax regression.md",
+    "_ZettleNotes/programming Notes/AI_Notes/Softmax regression.md",
     "_ZettleNotes/other Notes/03 الدرس الثالث.md",
     "_ZettleNotes/programming Notes/Ai Notes/cross validation 1.md",
     "_ZettleNotes/other Notes/02 الدرس الثاني.md",
     "_ZettleNotes/other Notes/01 الدرس الاول.md",
-    "_ZettleNotes/programming Notes/Ai Notes/activation function.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Adam Algorithm.md",
-    "_ZettleNotes/programming Notes/Ai Notes/advanced optimization.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Back Propagation.md",
-    "_ZettleNotes/programming Notes/Ai Notes/bias and variance.md",
-    "_ZettleNotes/programming Notes/Ai Notes/binary cross-entropy loss.md",
-    "_ZettleNotes/programming Notes/Ai Notes/clustering.md",
-    "_ZettleNotes/programming Notes/Ai Notes/cross validation.md",
-    "_ZettleNotes/programming Notes/Ai Notes/feature selection.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
-    "_ZettleNotes/programming Notes/Ai Notes/gradient descent.md",
-    "_ZettleNotes/programming Notes/Ai Notes/hyperparameters.md",
-    "_ZettleNotes/programming Notes/Ai Notes/learning curves.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Linear function.md",
+    "_ZettleNotes/programming Notes/AI_Notes/activation function.md",
+    "_ZettleNotes/programming Notes/AI_Notes/Adam Algorithm.md",
+    "_ZettleNotes/programming Notes/AI_Notes/advanced optimization.md",
+    "_ZettleNotes/programming Notes/AI_Notes/Back Propagation.md",
+    "_ZettleNotes/programming Notes/AI_Notes/bias and variance.md",
+    "_ZettleNotes/programming Notes/AI_Notes/binary cross-entropy loss.md",
+    "_ZettleNotes/programming Notes/AI_Notes/clustering.md",
+    "_ZettleNotes/programming Notes/AI_Notes/cross validation.md",
+    "_ZettleNotes/programming Notes/AI_Notes/feature selection.md",
+    "_ZettleNotes/programming Notes/AI_Notes/Forward propagation.md",
+    "_ZettleNotes/programming Notes/AI_Notes/gradient descent.md",
+    "_ZettleNotes/programming Notes/AI_Notes/hyperparameters.md",
+    "_ZettleNotes/programming Notes/AI_Notes/learning curves.md",
+    "_ZettleNotes/programming Notes/AI_Notes/Linear function.md",
     "Test file",
     "Resources/Raindrop/Other/desktop.ini",
     "Resources/Raindrop/desktop.ini",
@@ -219,7 +219,7 @@
     "Attachment/Pasted image 20240731015629.png",
     "Attachment/Pasted image 20240731015228.png",
     "Attachment",
-    "_ZettleNotes/programming Notes/Ai Notes",
+    "_ZettleNotes/programming Notes/AI_Notes",
     "_ZettleNotes/programming Notes",
     "_ZettleNotes/other Notes",
     "_ZettleNotes",

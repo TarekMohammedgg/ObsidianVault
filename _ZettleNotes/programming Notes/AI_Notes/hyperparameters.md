@@ -9,7 +9,7 @@ topic:
 ### what is the  different between hyper tuning (hyperparameter) and gradient descent ? 
 
 **hyperparameters**
-optimization of hyper parameters like (learning rate , batch size  , N of layers , N of neurons ,  [Regularization](Regularization.md) parameters )
+optimization of hyper parameters like (learning rate , batch size  , N of layers , N of neurons ,  [Regularization](_ZettleNotes/programming%20Notes/AI_Notes/Regularization.md) parameters )
 focuses on finding the best hyperparameters that control the training process and model to achieve the best performance 
 
 **gradient descent**

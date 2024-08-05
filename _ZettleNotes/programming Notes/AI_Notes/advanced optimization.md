@@ -7,9 +7,9 @@ topic:
   - machine learning
 ---
 
-### 1. [gradient descent](gradient%20descent.md)
+### 1. [gradient descent](_ZettleNotes/programming%20Notes/AI_Notes/gradient%20descent.md)
 
-### 2. [Adam Algorithm](Adam%20Algorithm.md)  
+### 2. [Adam Algorithm](_ZettleNotes/programming%20Notes/AI_Notes/Adam%20Algorithm.md)  
 
 
 

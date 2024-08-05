@@ -21,7 +21,7 @@ so ,
 **test set** : used only once for the final evaluation after the model is fully trained and tuned  . 
 
 
-### what is the different between [cross validation](_ZettleNotes/programming%20Notes/Ai%20Notes/cross%20validation.md) and [Regularization](Regularization.md) ? 
+### what is the different between [cross validation](_ZettleNotes/programming%20Notes/AI_Notes/cross%20validation.md) and [Regularization](_ZettleNotes/programming%20Notes/AI_Notes/Regularization.md) ? 
 **Regularization**
 reduce overfitting by add a penalty 
 **Cross validation**

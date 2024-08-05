@@ -1,7 +1,7 @@
 
 
 ### machine learning 
-[machine learning specialization ](machine%20learning%20specialization%20)
+[machine learning specialization](_ZettleNotes/programming%20Notes/AI_Notes/machine%20learning%20specialization.md)
 
 
-[deep learning specialization](deep%20learning%20specialization.md)
+[deep learning specialization](_ZettleNotes/programming%20Notes/AI_Notes/deep%20learning%20specialization.md)

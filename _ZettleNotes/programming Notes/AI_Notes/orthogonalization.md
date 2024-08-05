@@ -19,7 +19,7 @@ Not overfitting
 when solve the problem we treat with each other independently   
 
 there are some techniques  تكسر هذه القاعدة  
-[Regularization](_ZettleNotes/programming%20Notes/Ai%20Notes/Regularization.md)
+[Regularization](_ZettleNotes/programming%20Notes/AI_Notes/Regularization.md)
 
 
 ----

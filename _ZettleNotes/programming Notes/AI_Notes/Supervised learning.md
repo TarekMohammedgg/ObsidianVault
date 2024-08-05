@@ -21,9 +21,9 @@ any model we must explain some points :
 
 Topics support supervised learning : 
 
-[linear Regression](linear%20Regression.md) - (x->y) : predict the Number depend on the best line can drawn between points . 
+[linear Regression](_ZettleNotes/programming%20Notes/AI_Notes/linear%20Regression.md) - (x->y) : predict the Number depend on the best line can drawn between points . 
 
-[Logistic Regression (Classification )](Logistic%20Regression%20(Classification%20).md) - predict the categories small Number of possible outputs (limited ) . 
+[Logistic Regression (Classification )](_ZettleNotes/programming%20Notes/AI_Notes/Logistic%20Regression%20(Classification%20).md) - predict the categories small Number of possible outputs (limited ) . 
 
 
 ----

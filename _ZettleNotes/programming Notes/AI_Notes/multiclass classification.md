@@ -7,7 +7,7 @@ topic:
   - machine learning
 ---
 classification can have more just two classification , not just o or 1 like handwritten digit . 
-so , we can solve the problem using [Softmax regression](Softmax%20regression.md)
+so , we can solve the problem using [Softmax regression](_ZettleNotes/programming%20Notes/AI_Notes/Softmax%20regression.md)
 
 
 

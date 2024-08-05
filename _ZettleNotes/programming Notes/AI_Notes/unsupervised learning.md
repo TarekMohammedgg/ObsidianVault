@@ -7,7 +7,7 @@ topic:
 ---
 Find something interesting in unlabeled data  . 
 
-[clustering ](clustering%20) - Group similar data points together . 
+[clustering](_ZettleNotes/programming%20Notes/AI_Notes/clustering.md) - Group similar data points together . 
 
 [Anomaly detection](Anomaly%20detection) - find unusual data points . 
 

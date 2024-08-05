@@ -12,7 +12,7 @@ topic:
 
 The Normal Equation is a method used in linear regression to find the parameters (weights) that minimize the cost function. It provides a direct solution to the least squares problem without the need for iterative optimization algorithms like gradient descent. The Normal Equation is derived from setting the gradient of the cost function to zero and solving for the parameters.
 
-that is for any [linear Regression](linear%20Regression.md)
+that is for any [linear Regression](_ZettleNotes/programming%20Notes/AI_Notes/linear%20Regression.md)
 
 ### The formula 
 $$
