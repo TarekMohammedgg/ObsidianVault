@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/General Notes.md",
+                "file": "new regularization.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/General Notes.md",
+                "file": "new regularization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/General Notes.md"
+                "file": "new regularization.md"
               }
             }
           },
@@ -205,6 +205,9 @@
   },
   "active": "cd02014d9b5a438b",
   "lastOpenFiles": [
+    "_ZettleNotes/programming Notes/Ai Notes/Regularization.md",
+    "new regularization.md",
+    "Templates/General Notes.md",
     "_ZettleNotes/programming Notes/Ai Notes/vectorization.md",
     "_ZettleNotes/Test note.md",
     "_ZettleNotes/programming Notes/Ai Notes/unsupervised learning.md",
@@ -213,7 +216,6 @@
     "_ZettleNotes/programming Notes/Ai Notes/Softmax regression.md",
     "_ZettleNotes/programming Notes/Ai Notes/sigmoid function.md",
     "_ZettleNotes/programming Notes/Ai Notes/Relu Functon.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Regularization.md",
     "_ZettleNotes/programming Notes/Ai Notes/Normalizing.md",
     "_ZettleNotes/programming Notes/Ai Notes/Normal Equation.md",
     "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
@@ -229,8 +231,6 @@
     "_ZettleNotes/programming Notes/Ai Notes/hyperparameters.md",
     "_ZettleNotes/programming Notes/Ai Notes/gradient descent.md",
     "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
-    "_ZettleNotes/programming Notes/Ai Notes/feature selection.md",
-    "_ZettleNotes/programming Notes/Ai Notes/deep learning specialization.md",
     "Test file",
     "Resources/Raindrop/Other/desktop.ini",
     "Resources/Raindrop/desktop.ini",
