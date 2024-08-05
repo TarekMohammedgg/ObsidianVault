@@ -28,6 +28,6 @@ right to left => [Back Propagation](Back%20Propagation.md)
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM [#](#) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC
+LIST FROM [[#]] OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC
 ```
 

@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "29ce094cff97180b",
+        "id": "71a55fdbdb020503",
         "type": "tabs",
         "children": [
           {
-            "id": "3b797fec7a1fdaaa",
+            "id": "1bac2b730aa3ce68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9efe33635c2f94c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd02014d9b5a438b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "new neural network.md",
+                "file": "vanishing and exploding gradients.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 213.5
   },
   "right": {
     "id": "ddb635612eec29b6",
@@ -113,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new neural network.md",
+                "file": "vanishing and exploding gradients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new neural network.md"
+                "file": "vanishing and exploding gradients.md"
               }
             }
           },
@@ -203,34 +176,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd02014d9b5a438b",
+  "active": "1bac2b730aa3ce68",
   "lastOpenFiles": [
-    "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
-    "new neural network.md",
-    "new regularization.md",
     "_ZettleNotes/programming Notes/Ai Notes/Regularization.md",
+    "vanishing and exploding gradients.md",
     "Templates/General Notes.md",
-    "_ZettleNotes/programming Notes/Ai Notes/vectorization.md",
-    "_ZettleNotes/Test note.md",
-    "_ZettleNotes/programming Notes/Ai Notes/unsupervised learning.md",
-    "_ZettleNotes/programming Notes/Ai Notes/underverfitting & overfitting.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Supervised learning.md",
+    "_ZettleNotes/programming Notes/Ai Notes/deep learning specialization.md",
+    "_Indexes/Index - ما لا يسع الملسم جهله.md",
+    "_Indexes/Index - اعادة تشغيل الذات.md",
+    "_Indexes/Index - AI topics.md",
     "_ZettleNotes/programming Notes/Ai Notes/Softmax regression.md",
-    "_ZettleNotes/programming Notes/Ai Notes/sigmoid function.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Relu Functon.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Normalizing.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Normal Equation.md",
-    "_ZettleNotes/programming Notes/Ai Notes/multilabel label classification.md",
-    "_ZettleNotes/programming Notes/Ai Notes/multiclass classification.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Mean Squared Error (MSE).md",
-    "_ZettleNotes/programming Notes/Ai Notes/machine learning specialization.md",
-    "_ZettleNotes/programming Notes/Ai Notes/loop of ML development.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Logistic Regression (Classification ).md",
-    "_ZettleNotes/programming Notes/Ai Notes/linear Regression.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Linear function.md",
-    "_ZettleNotes/programming Notes/Ai Notes/learning curves.md",
-    "_ZettleNotes/programming Notes/Ai Notes/hyperparameters.md",
+    "_ZettleNotes/other Notes/03 الدرس الثالث.md",
+    "_ZettleNotes/programming Notes/Ai Notes/cross validation 1.md",
+    "_ZettleNotes/other Notes/02 الدرس الثاني.md",
+    "_ZettleNotes/other Notes/01 الدرس الاول.md",
+    "_ZettleNotes/programming Notes/Ai Notes/activation function.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Adam Algorithm.md",
+    "_ZettleNotes/programming Notes/Ai Notes/advanced optimization.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Back Propagation.md",
+    "_ZettleNotes/programming Notes/Ai Notes/bias and variance.md",
+    "_ZettleNotes/programming Notes/Ai Notes/binary cross-entropy loss.md",
+    "_ZettleNotes/programming Notes/Ai Notes/clustering.md",
+    "_ZettleNotes/programming Notes/Ai Notes/cross validation.md",
+    "_ZettleNotes/programming Notes/Ai Notes/feature selection.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
     "_ZettleNotes/programming Notes/Ai Notes/gradient descent.md",
+    "_ZettleNotes/programming Notes/Ai Notes/hyperparameters.md",
+    "_ZettleNotes/programming Notes/Ai Notes/learning curves.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Linear function.md",
     "Test file",
     "Resources/Raindrop/Other/desktop.ini",
     "Resources/Raindrop/desktop.ini",

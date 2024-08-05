@@ -29,6 +29,7 @@
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
     "dg-home": "checkbox",
-    "check": "checkbox"
+    "check": "checkbox",
+    "references": "multitext"
   }
 }

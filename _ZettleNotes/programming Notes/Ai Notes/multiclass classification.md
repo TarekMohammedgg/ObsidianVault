@@ -15,6 +15,6 @@ so , we can solve the problem using [Softmax regression](Softmax%20regression.md
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM [#](#) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC
+LIST FROM [[#]] OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC
 ```
 

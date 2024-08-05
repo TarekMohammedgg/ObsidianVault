@@ -103,12 +103,12 @@ how to apply [Regularization](Regularization.md) in [deep NN](deep%20NN) , and w
 setting up your optimization problem : 
 [Normalizing](Normalizing.md)
 
-
-
+---
+[[vanishing and exploding gradients]]
 
 
 ---
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM [#](#) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC
+LIST FROM [[#]] OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC
 ```
