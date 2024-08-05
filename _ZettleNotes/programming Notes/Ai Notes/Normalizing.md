@@ -34,7 +34,7 @@ uses same $\mu$ and $\sigma$ to normalize test set
 
 
 
-![[Pasted image 20240729042055.png]]
+![Pasted image 20240729042055](Pasted%20image%2020240729042055.png)
 
 ---
 ### Types of Normalization 
@@ -81,5 +81,5 @@ $$
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```

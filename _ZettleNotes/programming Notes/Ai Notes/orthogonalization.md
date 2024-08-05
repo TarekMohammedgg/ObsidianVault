@@ -19,12 +19,12 @@ Not overfitting
 when solve the problem we treat with each other independently   
 
 there are some techniques  تكسر هذه القاعدة  
-[[Regularization#Early stopping]]
+[](Regularization.md#Early%20stopping)
 
 
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```
 

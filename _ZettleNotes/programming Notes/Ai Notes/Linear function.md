@@ -6,7 +6,7 @@ topic:
   - Ai
   - machine learning
 ---
-![[Pasted image 20240731023417.png]]
+![Pasted image 20240731023417](Pasted%20image%2020240731023417.png)
 
 no activation function $g(z) = z$
 
@@ -19,5 +19,5 @@ no activation function $g(z) = z$
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```

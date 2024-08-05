@@ -7,9 +7,9 @@ topic:
   - machine learning
 ---
 
-### 1. [[gradient descent]]
+### 1. [gradient descent](gradient%20descent.md)
 
-### 2. [[Adam Algorithm]]  
+### 2. [Adam Algorithm](Adam%20Algorithm.md)  
 
 
 
@@ -23,6 +23,6 @@ topic:
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```
 

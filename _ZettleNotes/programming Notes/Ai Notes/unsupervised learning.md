@@ -7,15 +7,15 @@ topic:
 ---
 Find something interesting in unlabeled data  . 
 
-[[clustering ]] - Group similar data points together . 
+[clustering ](clustering%20) - Group similar data points together . 
 
-[[Anomaly detection]] - find unusual data points . 
+[Anomaly detection](Anomaly%20detection) - find unusual data points . 
 
-[[dimensionality detection ]] - compress data using fewer Numbers .
+[dimensionality detection ](dimensionality%20detection%20) - compress data using fewer Numbers .
 
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```
 

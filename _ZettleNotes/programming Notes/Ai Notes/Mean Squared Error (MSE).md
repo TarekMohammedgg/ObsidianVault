@@ -6,7 +6,7 @@ topic:
   - machine learning
   - Ai
 ---
-loss  function is [[convex]] cost function 
+loss  function is [convex](convex) cost function 
 cost function is summation of loss function 
 
 $$
@@ -26,5 +26,5 @@ $$
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```

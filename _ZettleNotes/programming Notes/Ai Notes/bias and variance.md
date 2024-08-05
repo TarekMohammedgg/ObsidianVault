@@ -81,11 +81,11 @@ Understanding and balancing bias and variance is essential for building effectiv
 
 ---
 ### سؤال في حالة استخدام neural network كبيرة اليس هذا سوف يؤدي الي high variance ؟ 
-ج : اذا كانت الشبكة منظمة بشكل مناسب [[Regularization]] فإنها ستعمل بشكل افضل من ال neural network الصغيرة .  
+ج : اذا كانت الشبكة منظمة بشكل مناسب [Regularization](Regularization.md) فإنها ستعمل بشكل افضل من ال neural network الصغيرة .  
 
 ----
 
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```

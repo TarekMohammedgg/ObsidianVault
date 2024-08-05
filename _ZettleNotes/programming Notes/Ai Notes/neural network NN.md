@@ -7,7 +7,7 @@ topic:
   - machine learning
 ---
 
-![[Pasted image 20240731015629.png]]
+![Pasted image 20240731015629](Pasted%20image%2020240731015629.png)
 
 ---
 ### how neural network actually work  ? 
@@ -16,28 +16,28 @@ topic:
 2. hidden layers 
 3. output layers 
 #### demand prediction
-![[Pasted image 20240731020023.png]]
-[[activation function]]
+![Pasted image 20240731020023](Pasted%20image%2020240731020023.png)
+[activation function](activation%20function.md)
 $$
 a = f(x)_{\vec{w},b} = \frac{1}{1+\exp{(w.x + b)}}
 $$
 #### face recognition 
-![[Pasted image 20240731020843.png]]
+![Pasted image 20240731020843](Pasted%20image%2020240731020843.png)
 
 ---
 عند حساب عدد ال layers مش بنحسب ال inputs layers . 
 $$
 a^{(L)}_{j} = g(\vec{w}_{j}^{(L)} . \vec{a}^{(L-1)} + b_{j}^{(L)} ) 
 $$
-we use [[sigmoid function]] as an [[activation function]]
+we use [sigmoid function](sigmoid%20function.md) as an [activation function](activation%20function.md)
 
-[[Forward propagation]]
+[Forward propagation](Forward%20propagation.md)
 
-[[vectorization]]
+[vectorization](vectorization.md)
 
-- خلي بالك في ان ال w كانت vector في ال [[linear Regression]] and [[Logistic Re`gression (Classification )]] و لكن في ال [[neural network NN]] بقت matrix . 
+- خلي بالك في ان ال w كانت vector في ال [linear Regression](linear%20Regression.md) and [Logistic Re`gression (Classification )](Logistic%20Re`gression%20(Classification%20)) و لكن في ال [neural network NN](neural%20network%20NN.md) بقت matrix . 
 
-### how to train [[neural network NN]] in tensorflow  :
+### how to train [neural network NN](neural%20network%20NN.md) in tensorflow  :
 1. create a Neural Network " how to compute output give input x and parameters "
 	```python 
 	model = sequential([layer 1  , layer 2 ])
@@ -54,12 +54,12 @@ we use [[sigmoid function]] as an [[activation function]]
 
 **note that loss function for 1 example , but cost function take average of loss function** 
 
-**if is the problem can handle true or not use logistic loss known ass [[Binary Cross-Entropy Loss]]**
+**if is the problem can handle true or not use logistic loss known ass [Binary Cross-Entropy Loss](Binary%20Cross-Entropy%20Loss.md)**
 
-**if is the problem can handle predict the value [[Mean Squared Error (MSE)]]**
+**if is the problem can handle predict the value [Mean Squared Error (MSE)](Mean%20Squared%20Error%20(MSE).md)**
 
-### Gradient descent in [[neural network NN]] 
-we compute derivatives for gradient descent using [[Back Propagation]] 
+### Gradient descent in [neural network NN](neural%20network%20NN.md) 
+we compute derivatives for gradient descent using [Back Propagation](Back%20Propagation.md) 
 ```python
 model.fit(x,y,epoches  = 100 ) 
 #doing backpropagation also 
@@ -69,22 +69,22 @@ model.fit(x,y,epoches  = 100 )
 
 ### choosing activation functions 
 **choosing g(z) for hidden layers ?**
-- [[Relu Functon]] most common choice why not [[sigmoid function]] ? 
+- [Relu Functon](Relu%20Functon.md) most common choice why not [sigmoid function](sigmoid%20function.md) ? 
 	1. relu faster than sigmoid 
 	2. faster learning because relu have one **flat region** , but sigmoid have two flat region  , the **flat region** make the gradient descent be slower  
 **choosing g(z) for outputs layer ?** 
-[[sigmoid function]] => [[Logistic Regression (Classification )]]
-[[Linear function]] => [[linear Regression]]
-[[Relu Functon]] => [[linear Regression]]
+[sigmoid function](sigmoid%20function.md) => [Logistic Regression (Classification )](Logistic%20Regression%20(Classification%20).md)
+[Linear function](Linear%20function.md) => [linear Regression](linear%20Regression.md)
+[Relu Functon](Relu%20Functon.md) => [linear Regression](linear%20Regression.md)
 
 **why do we need activation functions ?**
-because Neural Network not be able to fit any things more complex rather than [[ no activation function |[Linear function]]
+because Neural Network not be able to fit any things more complex rather than [[Linear function](%20no%20activation%20function%20)
 
-### [[multiclass classification]] 
+### [multiclass classification](multiclass%20classification.md) 
 
-### [[multilabel label classification ]]
+### [multilabel label classification ](multilabel%20label%20classification%20)
 
-### [[advanced optimization]] 
+### [advanced optimization](advanced%20optimization.md) 
 
 ### additional layers types : 
 #### 1. dense layer 
@@ -97,9 +97,9 @@ that make it :
 1. faster computation 
 2. need less training data (less prone to overfitting) 
 
-[[Back Propagation]]
-[[bias and variance]]
-[[loop of ML development ]]
+[Back Propagation](Back%20Propagation.md)
+[bias and variance](bias%20and%20variance.md)
+[loop of ML development ](loop%20of%20ML%20development%20)
 
 
 
@@ -107,6 +107,6 @@ that make it :
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```
 

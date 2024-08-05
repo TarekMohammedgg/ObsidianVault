@@ -7,7 +7,7 @@ topic:
   - machine learning
 ---
 classification can have more just two classification , not just o or 1 like handwritten digit . 
-so , we can solve the problem using [[Softmax regression]]
+so , we can solve the problem using [Softmax regression](Softmax%20regression.md)
 
 
 
@@ -15,6 +15,6 @@ so , we can solve the problem using [[Softmax regression]]
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```
 

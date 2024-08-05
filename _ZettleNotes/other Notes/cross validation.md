@@ -12,7 +12,7 @@ so ,
 **test set** : used only once for the final evaluation after the model is fully trained and tuned  . 
 
 
-### what is the different between [[cross validation]] and [[Regularization]] ? 
+### what is the different between [cross validation](cross%20validation.md) and [Regularization](Regularization.md) ? 
 **Regularization**
 reduce overfitting by add a penalty 
 **Cross validation**

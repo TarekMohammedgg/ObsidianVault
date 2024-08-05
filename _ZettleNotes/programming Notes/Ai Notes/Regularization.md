@@ -31,9 +31,9 @@ w will be sparse
 
 ### why regularization reduces overfitting ? 
 
-- الفكرة بشكل عام اني كلما قللت قيمة ال w  كلما كانت ال [[neural network NN]] اصغر و ده الي بيخليها ابسط و بالتالي  بيقلل ال overfitting . 
+- الفكرة بشكل عام اني كلما قللت قيمة ال w  كلما كانت ال [neural network NN](neural%20network%20NN.md) اصغر و ده الي بيخليها ابسط و بالتالي  بيقلل ال overfitting . 
 - شرح مفصل اكتر 
-![[Pasted image 20240729030348.png | 500 ]]
+![ 500 ](Pasted%20image%2020240729030348.png%20)
 
 
 ---
@@ -52,7 +52,7 @@ Dropout regularization is a technique used in machine learning, particularly in 
     - **Inference Phase**: During the inference phase (testing/prediction), dropout is not applied. Instead, the full network is used, but the weights are scaled down by a factor of 1−p1 - p1−p to account for the effect of dropout during training.
 
 
-![[Pasted image 20240729033013.png | 200]]
+![ 200](Pasted%20image%2020240729033013.png%20)
 
 #### Benefits of Dropout
 
@@ -68,23 +68,23 @@ using some of distortion on the same image or item to increase the size of train
  يعد من المبادئ المستخدمة لحل مشكلة overfitting الا و هو زيادة حجم ال data set 
 
 #### Early stopping
-![[Pasted image 20240729040224.png | 300]]
+![ 300](Pasted%20image%2020240729040224.png%20)
 
 يعتبر نفس المبدأ بتاع ال l2 regularization الا و هو اختار او تقليل قيمة ال w علي امل ان 
-ال [[neural network NN]] تكون قيمة ال w مناسبة معاها و لكن ليها عيب واحد الا و هو : 
-[[orthogonalization]] 
+ال [neural network NN](neural%20network%20NN.md) تكون قيمة ال w مناسبة معاها و لكن ليها عيب واحد الا و هو : 
+[orthogonalization](orthogonalization.md) 
 
 
 
-### what is the different between [[Regularization]] and [[feature selection]]  ? 
+### what is the different between [Regularization](Regularization.md) and [feature selection](feature%20selection.md)  ? 
 
-in [[Regularization]] : we don't delete feature completely , but decrease the effect of  unimportant features 
+in [Regularization](Regularization.md) : we don't delete feature completely , but decrease the effect of  unimportant features 
 
-in [[feature selection]] : we delete  unimportant features completely 
+in [feature selection](feature%20selection.md) : we delete  unimportant features completely 
 
 
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```

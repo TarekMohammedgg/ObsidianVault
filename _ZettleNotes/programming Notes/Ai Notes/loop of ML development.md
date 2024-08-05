@@ -7,7 +7,7 @@ topic:
   - machine learning
 ---
 
-![[Pasted image 20240731041721.png]]
+![Pasted image 20240731041721](Pasted%20image%2020240731041721.png)
 
 ### Error analysis 
 $M_{cv}$ = 500 
@@ -18,5 +18,5 @@ $M_{cv}$ = 500
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```

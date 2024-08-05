@@ -6,7 +6,7 @@ topic:
   - machine learning
 ---
 
-![[Pasted image 20240731001733.png | 500 ]]
+![ 500 ](Pasted%20image%2020240731001733.png%20)
 
 ### formula  
 $$
@@ -17,5 +17,5 @@ $$
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```

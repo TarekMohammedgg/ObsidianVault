@@ -9,8 +9,8 @@ topic:
 
 - الاشتقاق بيعبر عن مقدار التغيير الي بيحصل 
 computation graph used for calculate cost function and derivative 
-left to right => [[Forward propagation]]
-right to left => [[Back Propagation]]
+left to right => [Forward propagation](Forward%20propagation.md)
+right to left => [Back Propagation](Back%20Propagation.md)
 
 
 
@@ -28,6 +28,6 @@ right to left => [[Back Propagation]]
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```
 

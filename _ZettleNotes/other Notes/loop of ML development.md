@@ -1,4 +1,4 @@
-![[Pasted image 20240731041721.png]]
+![Pasted image 20240731041721](Pasted%20image%2020240731041721.png)
 
 ### Error analysis 
 $M_{cv}$ = 500 

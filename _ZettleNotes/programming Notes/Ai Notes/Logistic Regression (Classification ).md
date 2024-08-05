@@ -6,9 +6,9 @@ topic:
   - Ai
   - machine learning
 ---
-*definition* : [[Logistic Regression (Classification )]] is a statistical method used for binary classification problems, where the goal is to predict the probability that a given input belongs to one of two possible classes. Unlike[[linear Regression]], which predicts a continuous output, logistic regression predicts a probability that is then mapped to a discrete class label.
+*definition* : [Logistic Regression (Classification )](Logistic%20Regression%20(Classification%20).md) is a statistical method used for binary classification problems, where the goal is to predict the probability that a given input belongs to one of two possible classes. Unlike[linear Regression](linear%20Regression.md), which predicts a continuous output, logistic regression predicts a probability that is then mapped to a discrete class label.
 
-use logistic function ([[sigmoid function]] )
+use logistic function ([sigmoid function](sigmoid%20function.md) )
 
 think in logistic regression the probability that class is 1 
 ### formula 
@@ -31,7 +31,7 @@ $f_{\vec{w}, b }(x) < thresold(0.5) \implies y=0$
 
 ### cost function 
 
-[[Binary Cross-Entropy Loss]]
+[Binary Cross-Entropy Loss](Binary%20Cross-Entropy%20Loss.md)
 
 
 ### Gradient descent 
@@ -44,11 +44,11 @@ $$
 $$
 
 
-[[underverfitting & overfitting]]
-[[Softmax regression]]
+[underverfitting & overfitting](underverfitting%20&%20overfitting.md)
+[Softmax regression](Softmax%20regression.md)
 
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```

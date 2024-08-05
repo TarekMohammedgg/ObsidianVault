@@ -21,7 +21,7 @@ so ,
 **test set** : used only once for the final evaluation after the model is fully trained and tuned  . 
 
 
-### what is the different between [[cross validation]] and [[Regularization]] ? 
+### what is the different between [cross validation](cross%20validation.md) and [Regularization](Regularization.md) ? 
 **Regularization**
 reduce overfitting by add a penalty 
 **Cross validation**
@@ -33,5 +33,5 @@ is a check point to ensure the model is learning effectively and generalizing we
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```

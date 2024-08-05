@@ -6,9 +6,9 @@ topic:
   - machine learning
 ---
 
-**definition** : is generalization of [[Logistic Regression (Classification )]] , so able to solve [[neural network NN#multiclass classification]] problem 
+**definition** : is generalization of [Logistic Regression (Classification )](Logistic%20Regression%20(Classification%20).md) , so able to solve [](neural%20network%20NN.md#multiclass%20classification) problem 
 
-![[Pasted image 20240731025428.png]]
+![Pasted image 20240731025428](Pasted%20image%2020240731025428.png)
 ### formula : 
 $$
 a_{j} = \frac{\exp^{Z_{j}}}{\sum_{k =1 }^{N} \exp^{Z_{k}}}
@@ -32,5 +32,5 @@ decrease Numerical roundoff error
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```

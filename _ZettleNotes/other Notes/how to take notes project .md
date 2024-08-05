@@ -15,7 +15,7 @@ references:
 ### ما هي افضل الاساليب المستخدمة في اخذ الملاحظات ؟ 
 هناك طرق كثيرة لاخذ الملاحظات و تبدأ من حيث الادوات **ديجيتال ( obsidian - Notion ) ** او **ورقي** .
 و طريقة اخذ الملحوظة نفسها (cornel - feyman - mind map - outline ) ، و كل طريقة لها ما لها و عليها ما عليها . 
-الاستذكار الفعال و التكرار المتباعد [[active recall ]] and [[space Repetition ]]
+الاستذكار الفعال و التكرار المتباعد [active recall ](active%20recall%20) and [space Repetition ](space%20Repetition%20)
 
 
 
@@ -49,7 +49,7 @@ references:
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([[#]]) OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```
 
 
