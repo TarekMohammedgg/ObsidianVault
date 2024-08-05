@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"topic\":ai]",
+      "color": {
+        "a": 1,
+        "rgb": 13130966
+      }
+    },
+    {
+      "query": "[\"topic\":productivity",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.61112266112266,
+  "lineSizeMultiplier": 3.20197505197505,
+  "collapse-forces": false,
+  "centerStrength": 0.674636174636175,
+  "repelStrength": 11.4968814968815,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.5431013209714015,
+  "close": true
+}

@@ -1,0 +1,41 @@
+{
+  "frames": [
+    {
+      "url": "https://chat.openai.com/",
+      "displayName": "ChatGpt",
+      "icon": "bot",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://claude.ai/new",
+      "displayName": "Claude Ai ",
+      "icon": "message-circle-dashed",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://keep.google.com/u/0/",
+      "displayName": "Google Keep",
+      "icon": "lightbulb",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
