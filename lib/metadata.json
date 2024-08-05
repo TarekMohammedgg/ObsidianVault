@@ -1,6 +1,6 @@
 {
   "vaultName": "ObsidianVault",
-  "lastExport": 1722862633888,
+  "lastExport": 1722864887919,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon outliner-plugin-dnd",
   "useCustomHeadContent": false,
@@ -103,6 +103,7 @@
     "_ZettleNotes/programming Notes/desktop.ini",
     "_ZettleNotes/Binary Cross-Entropy Loss.md",
     "_ZettleNotes/desktop.ini",
+    "_ZettleNotes/Test note.md",
     "Attachment/1_Be3Bhz0BA-NgZIYqRVZtug.webp",
     "Attachment/1_Be3Bhz0BA-NgZIYqRVZtug 1.webp",
     "Attachment/8f10544f88885a2da447489054b33ed7.jpg.webp",
@@ -146,6 +147,8 @@
     "Excalidraw/Drawing 2024-07-31 01.58.21.excalidraw.md",
     "Excalidraw/Drawing 2024-07-31 03.05.17.excalidraw.md",
     "Excalidraw/شكل الصفحة.md",
+    "Templates/desktop.ini",
+    "Templates/General Notes.md",
     "index.md",
     "lib/media/pasted-image-20240731040247.png",
     "lib/media/pasted-image-20240731041721.png",
@@ -225,7 +228,6 @@
     "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css"
   ],
@@ -281,139 +283,138 @@
     "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css"
   ],
   "fileInfo": {
     "_Indexes/desktop.ini": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 244,
       "exportedPath": "_indexes/desktop.ini",
       "dependencies": []
     },
     "_Indexes/Index - AI topics.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 114,
       "exportedPath": "_indexes/index-ai-topics.html",
       "dependencies": []
     },
     "_Indexes/Index - اعادة تشغيل الذات.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 101,
       "exportedPath": "_indexes/index-اعادة-تشغيل-الذات.html",
       "dependencies": []
     },
     "_Indexes/Index - ما لا يسع الملسم جهله.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 112,
       "exportedPath": "_indexes/index-ما-لا-يسع-الملسم-جهله.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/01 الدرس الاول.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 3594,
       "exportedPath": "_zettlenotes/other-notes/01-الدرس-الاول.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/02 الدرس الثاني.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 2150,
       "exportedPath": "_zettlenotes/other-notes/02-الدرس-الثاني.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/03 الدرس الثالث.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 5634,
       "exportedPath": "_zettlenotes/other-notes/03-الدرس-الثالث.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/9 نصائح تمنيت لو تعلمتها قبل ال 30.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 2144,
       "exportedPath": "_zettlenotes/other-notes/9-نصائح-تمنيت-لو-تعلمتها-قبل-ال-30.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/cross validation.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 851,
       "exportedPath": "_zettlenotes/other-notes/cross-validation.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/desktop.ini": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 244,
       "exportedPath": "_zettlenotes/other-notes/desktop.ini",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/Git commands.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 3022,
       "exportedPath": "_zettlenotes/other-notes/git-commands.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/how to create a progress bar in google sheet .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 182,
       "exportedPath": "_zettlenotes/other-notes/how-to-create-a-progress-bar-in-google-sheet-.md/how-to-create-a-progress-bar-in-google-sheet-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/how to self study technical things.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 338,
       "exportedPath": "_zettlenotes/other-notes/how-to-self-study-technical-things.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/how to take notes for technical things.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 2564,
       "exportedPath": "_zettlenotes/other-notes/how-to-take-notes-for-technical-things.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/how to take notes project .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 4263,
       "exportedPath": "_zettlenotes/other-notes/how-to-take-notes-project-.md/how-to-take-notes-project-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/Index - data science.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 96,
       "exportedPath": "_zettlenotes/other-notes/index-data-science.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/Index - Productivity.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 730,
       "exportedPath": "_zettlenotes/other-notes/index-productivity.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/Index - برنامج اعادة تشغيل الذات.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 487,
       "exportedPath": "_zettlenotes/other-notes/index-برنامج-اعادة-تشغيل-الذات.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/Index - تصحيح التصورات و المعتقدات.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 936,
       "exportedPath": "_zettlenotes/other-notes/index-تصحيح-التصورات-و-المعتقدات.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/Index - ما لا يسع المسلم جهله.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 933,
       "exportedPath": "_zettlenotes/other-notes/index-ما-لا-يسع-المسلم-جهله.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/intro to digital marketing.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1679,
       "exportedPath": "_zettlenotes/other-notes/intro-to-digital-marketing.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/learning curves.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 532,
       "exportedPath": "_zettlenotes/other-notes/learning-curves.html",
       "dependencies": [
@@ -421,7 +422,7 @@
       ]
     },
     "_ZettleNotes/other Notes/loop of ML development.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 456,
       "exportedPath": "_zettlenotes/other-notes/loop-of-ml-development.html",
       "dependencies": [
@@ -429,7 +430,7 @@
       ]
     },
     "_ZettleNotes/other Notes/oct-29-2023 ( تحليل الشخصية ).md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 36,
       "exportedPath": "_zettlenotes/other-notes/oct-29-2023-(-تحليل-الشخصية-).html",
       "dependencies": [
@@ -437,49 +438,49 @@
       ]
     },
     "_ZettleNotes/other Notes/PPV System method.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1000,
       "exportedPath": "_zettlenotes/other-notes/ppv-system-method.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/which is better pen and paper or digital note taking.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1015,
       "exportedPath": "_zettlenotes/other-notes/which-is-better-pen-and-paper-or-digital-note-taking.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/اشهر 6 قوانين للانجاز و الانتاجية .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 933,
       "exportedPath": "_zettlenotes/other-notes/اشهر-6-قوانين-للانجاز-و-الانتاجية-.md/اشهر-6-قوانين-للانجاز-و-الانتاجية-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/التجريب.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 708,
       "exportedPath": "_zettlenotes/other-notes/التجريب.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/الذات.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1704,
       "exportedPath": "_zettlenotes/other-notes/الذات.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/الطريق .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 10002,
       "exportedPath": "_zettlenotes/other-notes/الطريق-.md/الطريق-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/المسافة بين رغبتنا و انجازاتنا.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1684,
       "exportedPath": "_zettlenotes/other-notes/المسافة-بين-رغبتنا-و-انجازاتنا.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/الهشاشة النفسية.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1852,
       "exportedPath": "_zettlenotes/other-notes/الهشاشة-النفسية.html",
       "dependencies": [
@@ -487,145 +488,145 @@
       ]
     },
     "_ZettleNotes/other Notes/انواع الجهل .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 229,
       "exportedPath": "_zettlenotes/other-notes/انواع-الجهل-.md/انواع-الجهل-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/انواع المعرفة.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 321,
       "exportedPath": "_zettlenotes/other-notes/انواع-المعرفة.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/اهداف ام عادات.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 631,
       "exportedPath": "_zettlenotes/other-notes/اهداف-ام-عادات.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/اهم الصفات في المبرمج الناجح.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1088,
       "exportedPath": "_zettlenotes/other-notes/اهم-الصفات-في-المبرمج-الناجح.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/اول 20 ساعة .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 929,
       "exportedPath": "_zettlenotes/other-notes/اول-20-ساعة-.md/اول-20-ساعة-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/تحمل المسؤولية .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1136,
       "exportedPath": "_zettlenotes/other-notes/تحمل-المسؤولية-.md/تحمل-المسؤولية-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/تعريف الحرية .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 201,
       "exportedPath": "_zettlenotes/other-notes/تعريف-الحرية-.md/تعريف-الحرية-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/تكوين النفس.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 250,
       "exportedPath": "_zettlenotes/other-notes/تكوين-النفس.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/دورة التفكير المنطقي.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 923,
       "exportedPath": "_zettlenotes/other-notes/دورة-التفكير-المنطقي.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/صوتية الصحة.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 820,
       "exportedPath": "_zettlenotes/other-notes/صوتية-الصحة.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/طريقة تحصيل المعرفة و تعلمها و حفظها.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 507,
       "exportedPath": "_zettlenotes/other-notes/طريقة-تحصيل-المعرفة-و-تعلمها-و-حفظها.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/طريقتي بالتفصيل في المذاكرة و حل الامتحان .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 356,
       "exportedPath": "_zettlenotes/other-notes/طريقتي-بالتفصيل-في-المذاكرة-و-حل-الامتحان-.md/طريقتي-بالتفصيل-في-المذاكرة-و-حل-الامتحان-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/عن الاحباط و قلة الدافع .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1223,
       "exportedPath": "_zettlenotes/other-notes/عن-الاحباط-و-قلة-الدافع-.md/عن-الاحباط-و-قلة-الدافع-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/عوامل النجاح ( مثلث النجاح ).md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 262,
       "exportedPath": "_zettlenotes/other-notes/عوامل-النجاح-(-مثلث-النجاح-).html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/فقه اليوم و الليلة .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 962,
       "exportedPath": "_zettlenotes/other-notes/فقه-اليوم-و-الليلة-.md/فقه-اليوم-و-الليلة-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/كتاب عام ال 12 اسبوع.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1348,
       "exportedPath": "_zettlenotes/other-notes/كتاب-عام-ال-12-اسبوع.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/كتب لمصطفي محمود.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 730,
       "exportedPath": "_zettlenotes/other-notes/كتب-لمصطفي-محمود.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/كي لا تقع في فخ الكبر .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 433,
       "exportedPath": "_zettlenotes/other-notes/كي-لا-تقع-في-فخ-الكبر-.md/كي-لا-تقع-في-فخ-الكبر-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/كيف تفشل في كل شيء ثم تحقق النجاح الكبير .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1715,
       "exportedPath": "_zettlenotes/other-notes/كيف-تفشل-في-كل-شيء-ثم-تحقق-النجاح-الكبير-.md/كيف-تفشل-في-كل-شيء-ثم-تحقق-النجاح-الكبير-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/كيف تنجز في هذا العالم المختل.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 521,
       "exportedPath": "_zettlenotes/other-notes/كيف-تنجز-في-هذا-العالم-المختل.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/لايف مع لطفي احمد الطوخي .md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 2297,
       "exportedPath": "_zettlenotes/other-notes/لايف-مع-لطفي-احمد-الطوخي-.md/لايف-مع-لطفي-احمد-الطوخي-.md.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/لمن أراد الفهم..هدم فكر منظمة تكوين بمحاضرة.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 2039,
       "exportedPath": "_zettlenotes/other-notes/لمن-أراد-الفهم..هدم-فكر-منظمة-تكوين-بمحاضرة.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/مفهوم الرضاء.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 204,
       "exportedPath": "_zettlenotes/other-notes/مفهوم-الرضاء.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/من انا ؟ و لما انا ؟ لماذا خلقت.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 5038,
       "exportedPath": "_zettlenotes/other-notes/من-انا-؟-و-لما-انا-؟-لماذا-خلقت.html",
       "dependencies": [
@@ -633,67 +634,67 @@
       ]
     },
     "_ZettleNotes/other Notes/مهارة التدوين و التلخيص و الارشفة.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 4655,
       "exportedPath": "_zettlenotes/other-notes/مهارة-التدوين-و-التلخيص-و-الارشفة.html",
       "dependencies": []
     },
     "_ZettleNotes/other Notes/نصائح وتوصيات هامة.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 662,
       "exportedPath": "_zettlenotes/other-notes/نصائح-وتوصيات-هامة.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/activation function.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 217,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/activation-function.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/Adam Algorithm.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 683,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/adam-algorithm.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/advanced optimization.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 283,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/advanced-optimization.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/Back Propagation.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 456,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/back-propagation.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/bias and variance.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 5130,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/bias-and-variance.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/binary cross-entropy loss (1).md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 653,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/binary-cross-entropy-loss-(1).html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/clustering.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 226,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/clustering.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/cross validation.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1069,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/cross-validation.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/deep learning specialization.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 3843,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/deep-learning-specialization.html",
       "dependencies": [
@@ -704,25 +705,25 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/desktop.ini": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 244,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/desktop.ini",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/feature selection.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 216,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/feature-selection.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 3219,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/forward-propagation.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/gradient descent.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1508,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/gradient-descent.html",
       "dependencies": [
@@ -731,13 +732,13 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/hyperparameters.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 732,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/hyperparameters.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/learning curves.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 757,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/learning-curves.html",
       "dependencies": [
@@ -745,7 +746,7 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/Linear function.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 292,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/linear-function.html",
       "dependencies": [
@@ -753,7 +754,7 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/linear Regression.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 833,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/linear-regression.html",
       "dependencies": [
@@ -761,13 +762,13 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/Logistic Regression (Classification ).md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1457,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/logistic-regression-(classification-).html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/loop of ML development.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 672,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/loop-of-ml-development.html",
       "dependencies": [
@@ -775,25 +776,25 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/machine learning specialization.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1321,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/machine-learning-specialization.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/Mean Squared Error (MSE).md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 730,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/mean-squared-error-(mse).html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/multiclass classification.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 375,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/multiclass-classification.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/multilabel label classification.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 636,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/multilabel-label-classification.html",
       "dependencies": [
@@ -801,7 +802,7 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 3262,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/neural-network-nn.html",
       "dependencies": [
@@ -811,13 +812,13 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/Normal Equation.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 780,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/normal-equation.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/Normalizing.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 3016,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/normalizing.html",
       "dependencies": [
@@ -825,13 +826,13 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/orthogonalization.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 612,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/orthogonalization.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/Regularization.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 3778,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/regularization.html",
       "dependencies": [
@@ -841,7 +842,7 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/Relu Functon.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 278,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/relu-functon.html",
       "dependencies": [
@@ -849,7 +850,7 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/sigmoid function.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 308,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/sigmoid-function.html",
       "dependencies": [
@@ -857,7 +858,7 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/Softmax regression.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 894,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/softmax-regression.html",
       "dependencies": [
@@ -865,7 +866,7 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/Supervised learning.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 770,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/supervised-learning.html",
       "dependencies": [
@@ -873,7 +874,7 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/underverfitting & overfitting.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 799,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/underverfitting-&-overfitting.html",
       "dependencies": [
@@ -882,787 +883,799 @@
       ]
     },
     "_ZettleNotes/programming Notes/Ai Notes/unsupervised learning.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 421,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/unsupervised-learning.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/Vanishing and Exploding gradients.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1630,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/vanishing-and-exploding-gradients.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/Ai Notes/vectorization.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 533,
       "exportedPath": "_zettlenotes/programming-notes/ai-notes/vectorization.html",
       "dependencies": []
     },
     "_ZettleNotes/programming Notes/desktop.ini": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 244,
       "exportedPath": "_zettlenotes/programming-notes/desktop.ini",
       "dependencies": []
     },
     "_ZettleNotes/Binary Cross-Entropy Loss.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 0,
       "exportedPath": "_zettlenotes/binary-cross-entropy-loss.html",
       "dependencies": []
     },
     "_ZettleNotes/desktop.ini": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 244,
       "exportedPath": "_zettlenotes/desktop.ini",
       "dependencies": []
     },
+    "_ZettleNotes/Test note.md": {
+      "modifiedTime": 1722864887919,
+      "sourceSize": 360,
+      "exportedPath": "_zettlenotes/test-note.html",
+      "dependencies": []
+    },
     "Attachment/1_Be3Bhz0BA-NgZIYqRVZtug.webp": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 37336,
       "exportedPath": "attachment/1_be3bhz0ba-ngziyqrvztug.webp",
       "dependencies": []
     },
     "Attachment/1_Be3Bhz0BA-NgZIYqRVZtug 1.webp": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 37336,
       "exportedPath": "attachment/1_be3bhz0ba-ngziyqrvztug-1.webp",
       "dependencies": []
     },
     "Attachment/8f10544f88885a2da447489054b33ed7.jpg.webp": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 11226,
       "exportedPath": "attachment/8f10544f88885a2da447489054b33ed7.jpg.webp",
       "dependencies": []
     },
     "Attachment/desktop.ini": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 244,
       "exportedPath": "attachment/desktop.ini",
       "dependencies": []
     },
     "Attachment/Pasted image 20240723091655.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 271505,
       "exportedPath": "attachment/pasted-image-20240723091655.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240723092041.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 43885,
       "exportedPath": "attachment/pasted-image-20240723092041.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240723100729.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 93543,
       "exportedPath": "attachment/pasted-image-20240723100729.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240723101305.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 273898,
       "exportedPath": "attachment/pasted-image-20240723101305.png",
       "dependencies": []
     },
     "Attachment/Pasted Image 20240723143019_252.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 277506,
       "exportedPath": "attachment/pasted-image-20240723143019_252.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240723185620.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 24769,
       "exportedPath": "attachment/pasted-image-20240723185620.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240723191454.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 82580,
       "exportedPath": "attachment/pasted-image-20240723191454.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240723200643.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 20769,
       "exportedPath": "attachment/pasted-image-20240723200643.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240727085600.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 65755,
       "exportedPath": "attachment/pasted-image-20240727085600.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240729030348.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 61447,
       "exportedPath": "attachment/pasted-image-20240729030348.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240729033013.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 22096,
       "exportedPath": "attachment/pasted-image-20240729033013.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240729040224.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 38405,
       "exportedPath": "attachment/pasted-image-20240729040224.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240729042055.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 229809,
       "exportedPath": "attachment/pasted-image-20240729042055.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240729064811.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 176158,
       "exportedPath": "attachment/pasted-image-20240729064811.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240729071439.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 26093,
       "exportedPath": "attachment/pasted-image-20240729071439.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240730230715.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 60766,
       "exportedPath": "attachment/pasted-image-20240730230715.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240730231105.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 27294,
       "exportedPath": "attachment/pasted-image-20240730231105.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240730234540.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 28912,
       "exportedPath": "attachment/pasted-image-20240730234540.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240730235441.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 23317,
       "exportedPath": "attachment/pasted-image-20240730235441.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731001733.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 7187,
       "exportedPath": "attachment/pasted-image-20240731001733.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731011012.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 33877,
       "exportedPath": "attachment/pasted-image-20240731011012.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731011041.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 34948,
       "exportedPath": "attachment/pasted-image-20240731011041.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731011048.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 34948,
       "exportedPath": "attachment/pasted-image-20240731011048.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731015228.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 142357,
       "exportedPath": "attachment/pasted-image-20240731015228.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731015629.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 67573,
       "exportedPath": "attachment/pasted-image-20240731015629.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731020023.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 10243,
       "exportedPath": "attachment/pasted-image-20240731020023.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731020843.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 106611,
       "exportedPath": "attachment/pasted-image-20240731020843.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731023313.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 134511,
       "exportedPath": "attachment/pasted-image-20240731023313.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731023417.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 13344,
       "exportedPath": "attachment/pasted-image-20240731023417.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731025428.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 48345,
       "exportedPath": "attachment/pasted-image-20240731025428.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731030726.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 36894,
       "exportedPath": "attachment/pasted-image-20240731030726.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731040247.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 72624,
       "exportedPath": "attachment/pasted-image-20240731040247.png",
       "dependencies": []
     },
     "Attachment/Pasted image 20240731041721.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 98877,
       "exportedPath": "attachment/pasted-image-20240731041721.png",
       "dependencies": []
     },
     "Excalidraw/desktop.ini": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 244,
       "exportedPath": "excalidraw/desktop.ini",
       "dependencies": []
     },
     "Excalidraw/Drawing 2024-07-26 02.24.38.excalidraw.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 12540,
       "exportedPath": "excalidraw/drawing-2024-07-26-02.24.38.excalidraw.html",
       "dependencies": []
     },
     "Excalidraw/Drawing 2024-07-31 01.17.25.excalidraw.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 570,
       "exportedPath": "excalidraw/drawing-2024-07-31-01.17.25.excalidraw.html",
       "dependencies": []
     },
     "Excalidraw/Drawing 2024-07-31 01.58.21.excalidraw.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 5588,
       "exportedPath": "excalidraw/drawing-2024-07-31-01.58.21.excalidraw.html",
       "dependencies": []
     },
     "Excalidraw/Drawing 2024-07-31 03.05.17.excalidraw.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 18620,
       "exportedPath": "excalidraw/drawing-2024-07-31-03.05.17.excalidraw.html",
       "dependencies": []
     },
     "Excalidraw/شكل الصفحة.md": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 15704,
       "exportedPath": "excalidraw/شكل-الصفحة.html",
       "dependencies": []
     },
+    "Templates/desktop.ini": {
+      "modifiedTime": 1722864887919,
+      "sourceSize": 244,
+      "exportedPath": "templates/desktop.ini",
+      "dependencies": []
+    },
+    "Templates/General Notes.md": {
+      "modifiedTime": 1722864887919,
+      "sourceSize": 191,
+      "exportedPath": "templates/general-notes.html",
+      "dependencies": []
+    },
     "index.md": {
-      "modifiedTime": 1722862633888,
-      "sourceSize": 23,
+      "modifiedTime": 1722864887919,
+      "sourceSize": 42,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/media/pasted-image-20240731040247.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 72624,
       "exportedPath": "lib/media/pasted-image-20240731040247.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240731041721.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 98877,
       "exportedPath": "lib/media/pasted-image-20240731041721.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240723191454.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 82580,
       "exportedPath": "lib/media/pasted-image-20240723191454.png",
       "dependencies": []
     },
     "lib/media/8f10544f88885a2da447489054b33ed7.jpg.webp": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 11226,
       "exportedPath": "lib/media/8f10544f88885a2da447489054b33ed7.jpg.webp",
       "dependencies": []
     },
     "lib/media/pasted-image-20240723200643.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 20769,
       "exportedPath": "lib/media/pasted-image-20240723200643.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240723091655.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 271505,
       "exportedPath": "lib/media/pasted-image-20240723091655.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240723092041.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 43885,
       "exportedPath": "lib/media/pasted-image-20240723092041.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240723101305.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 273898,
       "exportedPath": "lib/media/pasted-image-20240723101305.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240727085600.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 65755,
       "exportedPath": "lib/media/pasted-image-20240727085600.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240730234540.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 28912,
       "exportedPath": "lib/media/pasted-image-20240730234540.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240730235441.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 23317,
       "exportedPath": "lib/media/pasted-image-20240730235441.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240731023417.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 13344,
       "exportedPath": "lib/media/pasted-image-20240731023417.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240730231105.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 27294,
       "exportedPath": "lib/media/pasted-image-20240730231105.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240731030726.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 36894,
       "exportedPath": "lib/media/pasted-image-20240731030726.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240731015629.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 67573,
       "exportedPath": "lib/media/pasted-image-20240731015629.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240731020023.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 10243,
       "exportedPath": "lib/media/pasted-image-20240731020023.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240731020843.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 106611,
       "exportedPath": "lib/media/pasted-image-20240731020843.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240729042055.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 229809,
       "exportedPath": "lib/media/pasted-image-20240729042055.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240729030348.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 61447,
       "exportedPath": "lib/media/pasted-image-20240729030348.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240729033013.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 22096,
       "exportedPath": "lib/media/pasted-image-20240729033013.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240729040224.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 38405,
       "exportedPath": "lib/media/pasted-image-20240729040224.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240731023313.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 134511,
       "exportedPath": "lib/media/pasted-image-20240731023313.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240731001733.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 7187,
       "exportedPath": "lib/media/pasted-image-20240731001733.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240731025428.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 48345,
       "exportedPath": "lib/media/pasted-image-20240731025428.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240730230715.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 60766,
       "exportedPath": "lib/media/pasted-image-20240730230715.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240731011012.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 33877,
       "exportedPath": "lib/media/pasted-image-20240731011012.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240731011048.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 34948,
       "exportedPath": "lib/media/pasted-image-20240731011048.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1722862633888,
-      "sourceSize": 58625,
+      "modifiedTime": 1722864887919,
+      "sourceSize": 60855,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1722862633888,
-      "sourceSize": 10500,
+      "modifiedTime": 1722864887919,
+      "sourceSize": 10594,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 130208,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 4039,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 10101,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 311,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
-    "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1722862633888,
-      "sourceSize": 1010,
-      "exportedPath": "lib/styles/supported-plugins.css",
-      "dependencies": []
-    },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1722862633888,
+      "modifiedTime": 1722864887919,
       "sourceSize": 108,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
