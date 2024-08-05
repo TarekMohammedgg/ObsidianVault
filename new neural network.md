@@ -22,9 +22,11 @@ $$
 
 ---
 عند حساب عدد ال layers مش بنحسب ال inputs layers . 
+
 $$
 a^{(L)}_{j} = g(\vec{w}_{j}^{(L)} . \vec{a}^{(L-1)} + b_{j}^{(L)} ) 
 $$
+
 we use [sigmoid function](sigmoid%20function.md) as an [activation function](activation%20function.md)
 
 [Forward propagation](Forward%20propagation.md)
