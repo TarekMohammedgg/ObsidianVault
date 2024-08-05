@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
+                "file": "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
+                "file": "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md"
+                "file": "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md"
               }
             }
           },
@@ -179,13 +179,14 @@
   },
   "active": "3b797fec7a1fdaaa",
   "lastOpenFiles": [
-    "_ZettleNotes/programming Notes/Ai Notes/gradient descent.md",
+    "فواتير علي الدولي للمسالك.md",
+    "Untitled",
     "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
+    "_ZettleNotes/programming Notes/Ai Notes/gradient descent.md",
     "_ZettleNotes/programming Notes/Ai Notes/hyperparameters.md",
     "_ZettleNotes/programming Notes/Ai Notes/learning curves.md",
     "Templates/General Notes.md",
     "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
-    "فواتير علي الدولي للمسالك.md",
     "_ZettleNotes/Test note.md",
     "_ZettleNotes/other Notes/how to take notes project .md",
     "_ZettleNotes/Binary Cross-Entropy Loss.md",
@@ -218,13 +219,11 @@
     "_ZettleNotes/programming Notes/Ai Notes/Relu Functon.md",
     "_ZettleNotes/programming Notes/Ai Notes/orthogonalization.md",
     "_ZettleNotes/programming Notes/Ai Notes/Normalizing.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Normal Equation.md",
     "_ZettleNotes/programming Notes/Ai Notes",
     "_ZettleNotes/programming Notes",
     "_ZettleNotes/other Notes",
     "_ZettleNotes",
     "_Indexes",
-    "Templates",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
