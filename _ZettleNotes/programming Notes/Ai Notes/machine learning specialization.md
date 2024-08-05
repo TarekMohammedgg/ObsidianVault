@@ -11,7 +11,7 @@ machine learning : *"Field of study that gives computers the ability to learn wi
 
 ### [unsupervised learning](unsupervised%20learning.md) 
 
-[neural network NN](neural%20network%20NN.md)
+[neural network NN](_ZettleNotes/programming%20Notes/Ai%20Notes/neural%20network%20NN.md)
 
 ### Diagnostics for improve learning algorithm performance 
 how to evaluate the performance of learning algorithm 
@@ -36,5 +36,5 @@ split data into three parts
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM [[#]] OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC
 ```

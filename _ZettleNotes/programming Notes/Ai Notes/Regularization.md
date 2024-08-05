@@ -31,7 +31,7 @@ w will be sparse
 
 ### why regularization reduces overfitting ? 
 
-- الفكرة بشكل عام اني كلما قللت قيمة ال w  كلما كانت ال [neural network NN](neural%20network%20NN.md) اصغر و ده الي بيخليها ابسط و بالتالي  بيقلل ال overfitting . 
+- الفكرة بشكل عام اني كلما قللت قيمة ال w  كلما كانت ال [neural network NN](_ZettleNotes/programming%20Notes/Ai%20Notes/neural%20network%20NN.md) اصغر و ده الي بيخليها ابسط و بالتالي  بيقلل ال overfitting . 
 - شرح مفصل اكتر 
 ![ 500 ](Pasted%20image%2020240729030348.png%20)
 
@@ -71,7 +71,7 @@ using some of distortion on the same image or item to increase the size of train
 ![ 300](Pasted%20image%2020240729040224.png%20)
 
 يعتبر نفس المبدأ بتاع ال l2 regularization الا و هو اختار او تقليل قيمة ال w علي امل ان 
-ال [neural network NN](neural%20network%20NN.md) تكون قيمة ال w مناسبة معاها و لكن ليها عيب واحد الا و هو : 
+ال [neural network NN](_ZettleNotes/programming%20Notes/Ai%20Notes/neural%20network%20NN.md) تكون قيمة ال w مناسبة معاها و لكن ليها عيب واحد الا و هو : 
 [orthogonalization](orthogonalization.md) 
 
 
@@ -86,5 +86,5 @@ in [feature selection](feature%20selection.md) : we delete  unimportant features
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM [[#]] OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC
 ```

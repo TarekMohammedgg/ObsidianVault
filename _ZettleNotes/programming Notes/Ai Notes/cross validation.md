@@ -33,5 +33,5 @@ is a check point to ensure the model is learning effectively and generalizing we
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM [[#]] OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC
 ```

@@ -1,3 +1,11 @@
+---
+date: 2024-07-31
+author:
+  - Andrew ng
+topic:
+  - Ai
+  - machine learning
+---
 
 ![Pasted image 20240731015629](Attachment/Pasted%20image%2020240731015629.png)
 
@@ -27,9 +35,9 @@ we use [sigmoid function](sigmoid%20function.md) as an [activation function](act
 
 [vectorization](vectorization.md)
 
-- خلي بالك في ان ال w كانت vector في ال [linear Regression](linear%20Regression.md) and [Logistic Re`gression (Classification )](Logistic%20Re`gression%20(Classification%20)) و لكن في ال [neural network NN](neural%20network%20NN.md) بقت matrix . 
+- خلي بالك في ان ال w كانت vector في ال [linear Regression](linear%20Regression.md) and [Logistic Re`gression (Classification )](Logistic%20Re`gression%20(Classification%20)) و لكن في ال [neural network NN](_ZettleNotes/programming%20Notes/Ai%20Notes/neural%20network%20NN.md) بقت matrix . 
 
-### how to train [neural network NN](neural%20network%20NN.md) in tensorflow  :
+### how to train [neural network NN](_ZettleNotes/programming%20Notes/Ai%20Notes/neural%20network%20NN.md) in tensorflow  :
 1. create a Neural Network " how to compute output give input x and parameters "
 	```python 
 	model = sequential([layer 1  , layer 2 ])
@@ -50,7 +58,7 @@ we use [sigmoid function](sigmoid%20function.md) as an [activation function](act
 
 **if is the problem can handle predict the value [Mean Squared Error (MSE)](Mean%20Squared%20Error%20(MSE).md)**
 
-### Gradient descent in [neural network NN](neural%20network%20NN.md) 
+### Gradient descent in [neural network NN](_ZettleNotes/programming%20Notes/Ai%20Notes/neural%20network%20NN.md) 
 we compute derivatives for gradient descent using [Back Propagation](Back%20Propagation.md) 
 ```python
 model.fit(x,y,epoches  = 100 ) 

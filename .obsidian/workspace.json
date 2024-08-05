@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural network test.md",
+                "file": "_ZettleNotes/programming Notes/Ai Notes/vectorization.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural network test.md",
+                "file": "_ZettleNotes/programming Notes/Ai Notes/vectorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural network test.md"
+                "file": "_ZettleNotes/programming Notes/Ai Notes/vectorization.md"
               }
             }
           },
@@ -206,27 +206,33 @@
   },
   "active": "cd02014d9b5a438b",
   "lastOpenFiles": [
-    "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
-    "neural network test.md",
-    "new note.md",
-    "فواتير علي الدولي للمسالك.md",
-    "Untitled",
-    "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
-    "_ZettleNotes/programming Notes/Ai Notes/gradient descent.md",
-    "_ZettleNotes/programming Notes/Ai Notes/hyperparameters.md",
-    "_ZettleNotes/programming Notes/Ai Notes/learning curves.md",
-    "Templates/General Notes.md",
-    "_ZettleNotes/Test note.md",
-    "_ZettleNotes/other Notes/how to take notes project .md",
-    "_ZettleNotes/Binary Cross-Entropy Loss.md",
-    "_ZettleNotes/programming Notes/Ai Notes/vectorization.md",
-    "_ZettleNotes/programming Notes/Ai Notes/activation function.md",
+    "_ZettleNotes/programming Notes/Ai Notes/unsupervised learning.md",
+    "_ZettleNotes/programming Notes/Ai Notes/underverfitting & overfitting.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Supervised learning.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Softmax regression.md",
     "_ZettleNotes/programming Notes/Ai Notes/sigmoid function.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Relu Functon.md",
     "_ZettleNotes/programming Notes/Ai Notes/Regularization.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Normalizing.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Normal Equation.md",
+    "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
+    "_ZettleNotes/programming Notes/Ai Notes/multilabel label classification.md",
+    "_ZettleNotes/programming Notes/Ai Notes/multiclass classification.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Mean Squared Error (MSE).md",
+    "_ZettleNotes/programming Notes/Ai Notes/machine learning specialization.md",
+    "_ZettleNotes/programming Notes/Ai Notes/loop of ML development.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Logistic Regression (Classification ).md",
+    "_ZettleNotes/programming Notes/Ai Notes/linear Regression.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Linear function.md",
+    "_ZettleNotes/programming Notes/Ai Notes/learning curves.md",
+    "_ZettleNotes/programming Notes/Ai Notes/hyperparameters.md",
+    "_ZettleNotes/programming Notes/Ai Notes/gradient descent.md",
+    "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
     "_ZettleNotes/programming Notes/Ai Notes/feature selection.md",
+    "_ZettleNotes/programming Notes/Ai Notes/deep learning specialization.md",
     "_ZettleNotes/programming Notes/Ai Notes/cross validation.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Adam Algorithm.md",
-    "_ZettleNotes/programming Notes/Ai Notes/advanced optimization.md",
+    "_ZettleNotes/programming Notes/Ai Notes/clustering.md",
+    "Test file",
     "Resources/Raindrop/Other/desktop.ini",
     "Resources/Raindrop/desktop.ini",
     "Resources/Books/desktop.ini",
@@ -241,12 +247,6 @@
     "Attachment/Pasted image 20240731015629.png",
     "Attachment/Pasted image 20240731015228.png",
     "Attachment",
-    "_ZettleNotes/programming Notes/Ai Notes/unsupervised learning.md",
-    "_ZettleNotes/programming Notes/Ai Notes/underverfitting & overfitting.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Supervised learning.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Softmax regression.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Relu Functon.md",
-    "_ZettleNotes/programming Notes/Ai Notes/orthogonalization.md",
     "_ZettleNotes/programming Notes/Ai Notes",
     "_ZettleNotes/programming Notes",
     "_ZettleNotes/other Notes",

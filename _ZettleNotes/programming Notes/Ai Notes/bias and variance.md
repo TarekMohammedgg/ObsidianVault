@@ -87,5 +87,5 @@ Understanding and balancing bias and variance is essential for building effectiv
 
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
+LIST FROM [[#]] OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC
 ```
