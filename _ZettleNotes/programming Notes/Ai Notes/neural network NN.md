@@ -110,3 +110,9 @@ LINKS TO THIS PAGE
 LIST FROM ([#](#)) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC 
 ```
 
+
+
+```dataview 
+file.name
+
+```

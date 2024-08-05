@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
+                "file": "فواتير علي الدولي للمسالك.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
+                "file": "فواتير علي الدولي للمسالك.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md"
+                "file": "فواتير علي الدولي للمسالك.md"
               }
             }
           },
@@ -179,8 +179,11 @@
   },
   "active": "3b797fec7a1fdaaa",
   "lastOpenFiles": [
-    "_ZettleNotes/programming Notes/Ai Notes/vectorization.md",
+    "_ZettleNotes/other Notes/how to take notes project .md",
+    "فواتير علي الدولي للمسالك.md",
     "_ZettleNotes/programming Notes/Ai Notes/neural network NN.md",
+    "_ZettleNotes/Binary Cross-Entropy Loss.md",
+    "_ZettleNotes/programming Notes/Ai Notes/vectorization.md",
     "_ZettleNotes/programming Notes/Ai Notes/activation function.md",
     "_ZettleNotes/programming Notes/Ai Notes/sigmoid function.md",
     "_ZettleNotes/programming Notes/Ai Notes/Regularization.md",
@@ -190,7 +193,6 @@
     "_ZettleNotes/programming Notes/Ai Notes/Adam Algorithm.md",
     "_ZettleNotes/programming Notes/Ai Notes/advanced optimization.md",
     "_ZettleNotes/programming Notes/Ai Notes/gradient descent.md",
-    "فواتير علي الدولي للمسالك.md",
     "Resources/Raindrop/Other/desktop.ini",
     "Resources/Raindrop/desktop.ini",
     "Resources/Books/desktop.ini",
@@ -217,8 +219,6 @@
     "_ZettleNotes/programming Notes/Ai Notes/multiclass classification.md",
     "_ZettleNotes/programming Notes/Ai Notes/Mean Squared Error (MSE).md",
     "_ZettleNotes/programming Notes/Ai Notes/machine learning specialization.md",
-    "_ZettleNotes/programming Notes/Ai Notes/loop of ML development.md",
-    "_ZettleNotes/programming Notes/Ai Notes/Logistic Regression (Classification ).md",
     "_ZettleNotes/programming Notes/Ai Notes",
     "_ZettleNotes/programming Notes",
     "_ZettleNotes/other Notes",
