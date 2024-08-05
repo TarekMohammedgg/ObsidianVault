@@ -84,6 +84,6 @@ Forward propagation continues through all layers until the final output is produ
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM [[#]] OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC
+LIST FROM [#](#) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC
 ```
 

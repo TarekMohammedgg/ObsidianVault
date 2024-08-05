@@ -16,6 +16,6 @@ Find something interesting in unlabeled data  .
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM [[#]] OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC
+LIST FROM [#](#) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC
 ```
 

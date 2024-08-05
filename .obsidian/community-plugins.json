@@ -9,5 +9,6 @@
   "obsidian-custom-frames",
   "obsidian-mind-map",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-link-converter"
 ]

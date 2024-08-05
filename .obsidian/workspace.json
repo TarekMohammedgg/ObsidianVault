@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/vectorization.md",
+                "file": "Templates/General Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/vectorization.md",
+                "file": "Templates/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ZettleNotes/programming Notes/Ai Notes/vectorization.md"
+                "file": "Templates/General Notes.md"
               }
             }
           },
@@ -194,7 +194,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
@@ -206,6 +205,8 @@
   },
   "active": "cd02014d9b5a438b",
   "lastOpenFiles": [
+    "_ZettleNotes/programming Notes/Ai Notes/vectorization.md",
+    "_ZettleNotes/Test note.md",
     "_ZettleNotes/programming Notes/Ai Notes/unsupervised learning.md",
     "_ZettleNotes/programming Notes/Ai Notes/underverfitting & overfitting.md",
     "_ZettleNotes/programming Notes/Ai Notes/Supervised learning.md",
@@ -230,8 +231,6 @@
     "_ZettleNotes/programming Notes/Ai Notes/Forward propagation.md",
     "_ZettleNotes/programming Notes/Ai Notes/feature selection.md",
     "_ZettleNotes/programming Notes/Ai Notes/deep learning specialization.md",
-    "_ZettleNotes/programming Notes/Ai Notes/cross validation.md",
-    "_ZettleNotes/programming Notes/Ai Notes/clustering.md",
     "Test file",
     "Resources/Raindrop/Other/desktop.ini",
     "Resources/Raindrop/desktop.ini",

@@ -48,5 +48,5 @@ alternative to [gradient descent](gradient%20descent.md) in [linear Regression](
 ----
 LINKS TO THIS PAGE 
 ```dataview
-LIST FROM [[#]] OR outgoing([[#]]) WHERE file.name != this.file.name SORT file.name ASC
+LIST FROM [#](#) OR outgoing([#](#)) WHERE file.name != this.file.name SORT file.name ASC
 ```
